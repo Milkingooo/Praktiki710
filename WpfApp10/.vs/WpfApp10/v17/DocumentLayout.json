@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|e:\\users\\xiamaksi\\desktop\\wpfapp10\\wpfapp10\\window7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|solutionrelative:wpfapp10\\window7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|e:\\users\\xiamaksi\\desktop\\wpfapp10\\wpfapp10\\window7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|solutionrelative:wpfapp10\\window7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|e:\\users\\xiamaksi\\desktop\\wpfapp10\\wpfapp10\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|solutionrelative:wpfapp10\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\wpfapp10\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|solutionrelative:wpfapp10\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|e:\\users\\xiamaksi\\desktop\\wpfapp10\\wpfapp10\\window6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|solutionrelative:wpfapp10\\window6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|e:\\users\\xiamaksi\\desktop\\wpfapp10\\wpfapp10\\window6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|solutionrelative:wpfapp10\\window6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\wpfapp10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|solutionrelative:wpfapp10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\wpfapp10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|solutionrelative:wpfapp10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|e:\\users\\xiamaksi\\desktop\\wpfapp10\\wpfapp10\\window5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|solutionrelative:wpfapp10\\window5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|e:\\users\\xiamaksi\\desktop\\wpfapp10\\wpfapp10\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|solutionrelative:wpfapp10\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|e:\\users\\xiamaksi\\desktop\\wpfapp10\\wpfapp10\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BC3A22A-5925-4B4F-89DC-8E970447893F}|WpfApp10\\WpfApp10.csproj|solutionrelative:wpfapp10\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window7.xaml.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window7.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp10\\Window7.xaml.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window7.xaml.cs",
+              "RelativeToolTip": "WpfApp10\\Window7.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwCQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:16:22.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window7.xaml",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window7.xaml",
+              "RelativeDocumentMoniker": "WpfApp10\\Window7.xaml",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window7.xaml",
+              "RelativeToolTip": "WpfApp10\\Window7.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T19:15:21.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window6.xaml.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window6.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp10\\Window6.xaml.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window6.xaml.cs",
+              "RelativeToolTip": "WpfApp10\\Window6.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAArwDcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:11:32.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window6.xaml",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window6.xaml",
+              "RelativeDocumentMoniker": "WpfApp10\\Window6.xaml",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window6.xaml",
+              "RelativeToolTip": "WpfApp10\\Window6.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T19:07:18.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Window5.xaml.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window5.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp10\\Window5.xaml.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window5.xaml.cs",
+              "RelativeToolTip": "WpfApp10\\Window5.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAjwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:59:53.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Window4.xaml.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window4.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp10\\Window4.xaml.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window4.xaml.cs",
+              "RelativeToolTip": "WpfApp10\\Window4.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAArwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:26:35.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window1.xaml",
+              "RelativeDocumentMoniker": "WpfApp10\\Window1.xaml",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window1.xaml",
+              "RelativeToolTip": "WpfApp10\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T18:11:41.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Window4.xaml",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window4.xaml",
+              "RelativeDocumentMoniker": "WpfApp10\\Window4.xaml",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window4.xaml",
+              "RelativeToolTip": "WpfApp10\\Window4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T18:19:12.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp10\\Window1.xaml.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\Window1.xaml.cs",
+              "RelativeToolTip": "WpfApp10\\Window1.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAASwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:17:05.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp10\\MainWindow.xaml",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp10\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T18:11:41.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp10\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\WpfApp10\\WpfApp10\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp10\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAjwEkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:11:41.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

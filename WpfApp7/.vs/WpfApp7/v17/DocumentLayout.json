@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\wpfapp7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\wpfapp7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|e:\\users\\xiamaksi\\desktop\\\u0445\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\wpfapp7\\wpfapp7\\regist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\regist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\wpfapp7\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\wpfapp7\\regist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\regist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\wpfapp7\\userssingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\userssingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\wpfapp7\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F0C68-CA52-4C25-8381-E82D908BA047}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Regist.xaml.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\Regist.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp7\\Regist.xaml.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\Regist.xaml.cs",
+              "RelativeToolTip": "WpfApp7\\Regist.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:34:58.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Regist.xaml",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\Regist.xaml",
+              "RelativeDocumentMoniker": "WpfApp7\\Regist.xaml",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\Regist.xaml",
+              "RelativeToolTip": "WpfApp7\\Regist.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-29T17:34:59.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersSingleton.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\UsersSingleton.cs",
+              "RelativeDocumentMoniker": "WpfApp7\\UsersSingleton.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\UsersSingleton.cs",
+              "RelativeToolTip": "WpfApp7\\UsersSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-03-29T17:34:59.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp7\\Window1.xaml.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\Window1.xaml.cs",
+              "RelativeToolTip": "WpfApp7\\Window1.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGAAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-29T17:34:59.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp7\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp7\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwCUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:34:59.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp7\\MainWindow.xaml",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp7\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-29T17:34:59.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\Singleton.cs",
+              "RelativeDocumentMoniker": "WpfApp7\\Singleton.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.01\\WpfApp7\\WpfApp7\\Singleton.cs",
+              "RelativeToolTip": "WpfApp7\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-03-29T17:34:59.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
